@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1615465643 source:c:\users\mihel\documents\c\projetotad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Collection.h"
+
+1615464194 c:\users\mihel\documents\c\projetotad\collection.h
+
+1615464467 source:c:\users\mihel\documents\c\projetotad\collection.c
+	"Collection.h"
+	<stdlib.h>
+
